@@ -5508,23 +5508,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tiago\\.nuget\\packages\\": {},
+    "C:\\Users\\dsautiagogomes\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiago\\OneDrive\\TesteBack-End\\Atividade xUnit\\atividade_imc_xunit\\atividade_imc_xunit.csproj",
+      "projectUniqueName": "c:\\Users\\dsautiagogomes\\OneDrive\\testexunit\\atividade_imc_xunit\\atividade_imc_xunit.csproj",
       "projectName": "atividade_imc_xunit",
-      "projectPath": "C:\\Users\\tiago\\OneDrive\\TesteBack-End\\Atividade xUnit\\atividade_imc_xunit\\atividade_imc_xunit.csproj",
-      "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiago\\OneDrive\\TesteBack-End\\Atividade xUnit\\atividade_imc_xunit\\obj\\",
+      "projectPath": "c:\\Users\\dsautiagogomes\\OneDrive\\testexunit\\atividade_imc_xunit\\atividade_imc_xunit.csproj",
+      "packagesPath": "C:\\Users\\dsautiagogomes\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\dsautiagogomes\\OneDrive\\testexunit\\atividade_imc_xunit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\tiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dsautiagogomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5586,7 +5586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
